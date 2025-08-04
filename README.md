@@ -26,6 +26,9 @@ The project includes all necessary dependencies for the fast.ai course:
 - **matplotlib** - For plotting and visualization
 - **pandas, numpy, scikit-learn** - Core data science libraries
 - **torch, torchvision** - PyTorch deep learning framework
+- **duckduckgo_search** - For image search in computer vision notebooks
+- **pillow** - Python Imaging Library for image processing
+- **fastcore, fastdownload** - Utilities for fastai
 
 ## Running Notebooks
 
@@ -49,8 +52,9 @@ practical-deep-learning-for-coders/
 │   ├── self/           # Personal exploratory notebooks
 │   │   └── fastai-intro.ipynb
 │   ├── kaggle/         # Notebooks from Kaggle sources
-│   │   └── lesson01/   # Lesson 1: Jupyter Notebook basics
-│   │       └── jupyter-notebook-101.ipynb
+│   │   ├── lesson01/   # Lesson 1: Jupyter Notebook basics
+│   │   │   ├── jupyter-notebook-101.ipynb
+│   │   │   └── is-it-a-bird-creating-a-model-from-your-own-data.ipynb
 │   └── README.md       # Notebooks organization guide
 ├── pyproject.toml      # Project configuration and dependencies
 ├── uv.lock            # Locked dependency versions

@@ -8,4 +8,8 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.5",
     "pandas-stubs==2.3.0.250703",
+    "duckduckgo_search>=6.2",
+    "pillow>=10.0.0",
+    "fastcore>=1.5.21",
+    "fastdownload>=0.0.7",
 ]

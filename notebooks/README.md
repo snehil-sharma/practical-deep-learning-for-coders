@@ -9,6 +9,7 @@ This directory contains notebooks from the [Practical Deep Learning for Coders](
 - `kaggle/` - Notebooks sourced from Kaggle
   - `lesson01/` - Lesson 1: Introduction to Jupyter Notebooks
     - `jupyter-notebook-101.ipynb` - Basic introduction to using Jupyter notebooks
+    - `is-it-a-bird-creating-a-model-from-your-own-data.ipynb` - Image classification tutorial that builds a bird detector using fastai and duckduckgo_search
 
 ## Running Notebooks
 
