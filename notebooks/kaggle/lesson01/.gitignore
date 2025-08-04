@@ -1,0 +1,18 @@
+# Downloaded images - ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+
+# Downloaded image directories
+bird_or_not/
+
+# Any other potential image download directories
+*_or_not/
+*_photos/
+images/
+downloads/
