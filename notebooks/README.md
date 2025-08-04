@@ -4,6 +4,8 @@ This directory contains notebooks from the [Practical Deep Learning for Coders](
 
 ## Organization
 
+- `self/` - **Personal exploratory notebooks** - Your space for experimentation and learning
+  - `fastai-intro.ipynb` - Comprehensive tutorial covering Jupyter, Python, data science libraries, and FastAI introduction
 - `kaggle/` - Notebooks sourced from Kaggle
   - `lesson01/` - Lesson 1: Introduction to Jupyter Notebooks
     - `jupyter-notebook-101.ipynb` - Basic introduction to using Jupyter notebooks

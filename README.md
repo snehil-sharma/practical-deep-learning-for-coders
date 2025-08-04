@@ -46,6 +46,8 @@ uv run jupyter notebook
 ```
 practical-deep-learning-for-coders/
 ├── notebooks/           # Course notebooks organized by lesson
+│   ├── self/           # Personal exploratory notebooks
+│   │   └── fastai-intro.ipynb
 │   ├── kaggle/         # Notebooks from Kaggle sources
 │   │   └── lesson01/   # Lesson 1: Jupyter Notebook basics
 │   │       └── jupyter-notebook-101.ipynb
