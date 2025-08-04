@@ -46,8 +46,9 @@ uv run jupyter notebook
 ```
 practical-deep-learning-for-coders/
 ├── notebooks/           # Course notebooks organized by lesson
-│   ├── lesson01/       # Lesson 1: Jupyter Notebook basics
-│   │   └── jupyter-notebook-101.ipynb
+│   ├── kaggle/         # Notebooks from Kaggle sources
+│   │   └── lesson01/   # Lesson 1: Jupyter Notebook basics
+│   │       └── jupyter-notebook-101.ipynb
 │   └── README.md       # Notebooks organization guide
 ├── pyproject.toml      # Project configuration and dependencies
 ├── uv.lock            # Locked dependency versions

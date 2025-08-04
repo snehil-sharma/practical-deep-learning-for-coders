@@ -4,8 +4,9 @@ This directory contains notebooks from the [Practical Deep Learning for Coders](
 
 ## Organization
 
-- `lesson01/` - Lesson 1: Introduction to Jupyter Notebooks
-  - `jupyter-notebook-101.ipynb` - Basic introduction to using Jupyter notebooks
+- `kaggle/` - Notebooks sourced from Kaggle
+  - `lesson01/` - Lesson 1: Introduction to Jupyter Notebooks
+    - `jupyter-notebook-101.ipynb` - Basic introduction to using Jupyter notebooks
 
 ## Running Notebooks
 
