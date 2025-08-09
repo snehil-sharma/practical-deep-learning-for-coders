@@ -39,7 +39,7 @@ Use uv instead of pyenv/python-build:
 
 ## Project Management
 
-Use uv for project lifecycle:
+Use uv for the project lifecycle:
 - `uv init` to create a new project
 - `uv init --lib` to create a library project
 - `uv init --app` to create an application project
